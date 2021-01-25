@@ -6,5 +6,14 @@
 # Как запустить?
 Установить компилятор плюсов, затем:
 
-+ `g++ -std=c++17 -o game functional_game.cpp -lncurses`
-+ `./game`
+```sh
+$ g++ -std=c++17 -o game functional_game.cpp -lncurses
+```
+
+```sh
+$ ./game
+```
+
+## Предыдущие версии:
+
+- https://github.com/EgorovM/snake
