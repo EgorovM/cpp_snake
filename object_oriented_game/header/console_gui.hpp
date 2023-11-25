@@ -20,7 +20,7 @@ class GUI{
     int width, height;
     int speed;
     bool running;
-    int score;
+    int score = 0;
     Snake snake;
     Apple apple;
     bool isGameOver();
